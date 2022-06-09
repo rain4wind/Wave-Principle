@@ -11,7 +11,7 @@
   
 <h5>观看视频:<a href="https://www.youtube.com/channel/UCrodljOlMoZJSvQaibWEcJQ">Youtube</a>
   
-<h5>加入社区:<a href="https://www.youtube.com/channel/UCrodljOlMoZJSvQaibWEcJQ">Discord</a>
+<h5>加入社区:<a href="https://discord.gg/HUU6nR3r">Discord</a>
   
 <h5>新手手册:<a href="https://b.01btc.com/kxian.html">新手入门讲解</a>
   
