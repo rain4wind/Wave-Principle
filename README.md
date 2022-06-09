@@ -1,10 +1,9 @@
-# Wave-Principle
+# 波浪体系
 
   
   <!DOCTYPE html>
 <html>
 <head>
- <h3>波浪体系
 </head>
 <body>
 <h5>主讲人: 鱼丸
