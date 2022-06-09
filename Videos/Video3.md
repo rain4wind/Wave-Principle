@@ -1,1 +1,3 @@
+视频地址：[第三讲-有效形态判断](https://www.youtube.com/watch?v=AFAdd_jJQtI)
+
 ![image](https://user-images.githubusercontent.com/5788126/172590515-b9fc473a-3563-4443-be42-7f509581b3e9.png)
