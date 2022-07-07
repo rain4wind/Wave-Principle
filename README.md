@@ -12,7 +12,7 @@
   
 <h5>加入社区:<a href="https://discord.gg/HUU6nR3r">Discord</a>
   
-<h5>新手手册:<a href="https://b.01btc.com/kxian.html">新手入门讲解</a>
+<h5>新手手册:<a href="https://www.kancloud.cn/tradercz/abtcbook/2158768">新手入门讲解</a>
   
 </body>
 </html>
